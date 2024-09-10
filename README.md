@@ -1,4 +1,4 @@
-Here's a cool and professional `README.md` file template for your network packet sniffer project:
+
 
 ---
 
