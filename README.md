@@ -31,6 +31,9 @@ A powerful Python-based network packet sniffer built using raw sockets, designed
    ```
 
    > **Note**: The script requires superuser privileges to capture network traffic using raw sockets.
+   > 1. Please run the code in pycharm.
+   > 2.  wait for atleast 10 seconds after running code.
+   > 3.  connected your pc with mobile data and after running code..try to use the internet in your mobile like opening YouTube in mobile, or sending messages in whatsApp, or using Google in mobile, so that whenever the mobile uses internet..there is movement of packets in network and the code will capture it.
 
 ## 🔍 Usage
 
@@ -66,10 +69,6 @@ IPv4 Packet:
 ## ⚠️ Disclaimer
 
 This project is intended for educational purposes only. Capturing network traffic may violate network privacy policies, so **ensure you have permission** before using it on any network.
-
-## 🛡️ License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
